@@ -1,0 +1,8 @@
+2026-06-17 15:29:06,779 INFO Camelot version: 2.0.0
+2026-06-17 15:29:06,780 INFO Camelot read_pdf signature: (filepath: str | pathlib.Path | bytes | bytearray | memoryview | IO[bytes], pages='1', password=None, flavor='lattice', suppress_stdout=False, parallel=False, cpu_count=None, layout_kwargs=None, per_page=None, debug=False, **kwargs)
+2026-06-17 15:29:06,781 INFO Camelot supports flavor='auto': True
+2026-06-17 15:29:06,781 INFO Camelot backend status: {"executables": {"gs": null, "gswin32c": null, "gswin64c": "C:\\Program Files\\gs\\gs10.07.1\\bin\\gswin64c.EXE", "pdftoppm": null}, "python_modules": {"cv2": true, "ghostscript": false, "pypdfium2": true}, "versions": {"opencv-python-headless": "4.13.0.92", "pypdfium2": "5.10.1"}}
+INFO:     Started server process [12548]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:4000 (Press CTRL+C to quit)
